@@ -1,0 +1,11 @@
+@import "custom-framework/nav.css";
+@import "custom-framework/main-body.css";
+@import "custom-framework/card.css";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --charcoal-grey: #666666;
+}

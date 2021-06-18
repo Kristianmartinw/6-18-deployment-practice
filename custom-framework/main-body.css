@@ -1,0 +1,17 @@
+
+#head1, #head2, #head3, #head4, #head5, #head6 {
+    font-size: 1em;
+    margin: 0;
+    border: 1px dashed pink;
+    width: fit-content;
+    padding: .25em .5em;
+
+}
+
+#head1 {
+    margin-top: .25em;
+}
+
+#head6 {
+    margin-bottom: .25em;
+}
